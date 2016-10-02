@@ -1,0 +1,14 @@
+{
+  "name": "yearlyscheduler",
+  "version": "1.0.0",
+  "description": "yearly schedule app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jesse Elfalan",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.2"
+  }
+}
